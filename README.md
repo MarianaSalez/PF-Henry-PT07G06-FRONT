@@ -1,0 +1,41 @@
+
+# JUIRA MARKET-FRONT
+
+_Este repositorio corresponde al proyecto final del Bootcamp de SOY HENRY, y corresponde a un market-place. 
+
+## OBJETIVO 💼
+
+Hay personas constantemente mudandose, y es un factor comun que en estos cambios descubrimos que hay cosas que no estamos usando...
+ellos son los potenciales usuarios vendedores de nuestra aplicacion y los invitamos a sacar las cosas "pa JUIRA". Que es un modismo argentino, 
+para decir "afuera".
+
+Por otra parte, debido a la situacion del pais, no todo el mundo puede acceder a productos nuevos, a ellos los invitamos como usuarios
+compradores a ser parte de nuestra comunidad, y encontrar lo que estan buscando en una venta de segunda mano de calidad.
+
+Aseguramos la calidad, en base a un sistema de puntaje al usuario, y teniendo un cuidado celoso en el intercambio monetario,
+asegurando que no se van a presentar situaciones de estafa.
+
+
+### COMO FUNCIONA 📋
+
+Te invitamos a navegar nuestra pagina como invitado, y a sumarte a nuestra comunidad, a continuacion esta el deploy:
+
+https://juira-market-place.vercel.app/
+
+Pero si no tenes tiempo y solo queres una previsualizacion,a continuacion tenes un video de las funcionalidades:
+
+https://www.youtube.com/watch?v=CKKNUnyKdVk
+ 
+
+### TECNOLOGIAS UTILIZADAS 🔧
+
+
+- [ ] HTLM
+- [ ] MATERIAL UI
+- [ ] Javascript
+- [ ] React
+- [ ] Redux
+- [ ] Local-Storage
+- [ ] Firebase
+- [ ] Cloudinary
+
