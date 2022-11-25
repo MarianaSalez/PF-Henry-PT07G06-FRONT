@@ -30,6 +30,9 @@ Pero si no tenes tiempo y solo queres una previsualizacion,a continuacion tenes 
 
 https://www.youtube.com/watch?v=CKKNUnyKdVk
  
+ El codigo para visualizar el back-end del cual consume se encuentra en el siguiente repositorio
+ 
+ [BACK-END](https://github.com/MarianaSalez/PF-Henry-PT07G06-BACK)
 
 ### TECNOLOGIAS UTILIZADAS 🔧
 
